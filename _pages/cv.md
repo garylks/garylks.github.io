@@ -1,64 +1,66 @@
 ---
 layout: archive
-title: "CV"
+title: "📄 CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+    - /resume
 ---
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## 🎓 Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+-   **Bachelor of Business Administration (Business Analytics)**  
+    The Chinese University of Hong Kong (CUHK)  
+    September 2017 – May 2021
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## 💼 Work Experience
+
+### IT Officer | Delta Asia Financial Group
+
+_August 2021 – June 2022_
+
+-   Developed financial calculators and conducted extensive research/testing on **core banking systems**, including user acceptance testing (UAT) and support
+-   Automated data collection workflows integrating **Bloomberg** and **Microsoft SQL Server**
+-   Generated reports for regulatory bodies including **Autoridade Monetária de Macau (AMCM)** and internal teams (marketing, finance, management)
+-   Utilized UiPath for web scraping and process automation
+
+### Data Engineer | Varadise Limited
+
+_June 2022 – Present_
+
+-   Architect and deploy scalable **IoT data pipelines**, reducing data processing time by over **50%**
+-   Develop and manage a **device management platform** to support real-time data streaming
+-   Build **real-time alert systems** for smart construction, enhancing incident detection and response by **40%**
+-   Manage cloud-based microservices deployed on **AWS** for high availability and scalability
+
+---
+
+## 🛠️ Skills
+
+-   **Programming Languages:** Python, Go, SQL
+-   **Databases:** Microsoft SQL Server, PostgreSQL, MySQL, MongoDB, Redis
+-   **Cloud & DevOps:** AWS, Microsoft Azure, Huawei Cloud, Jenkins, Blue Ocean, GitHub, GitLab, CI/CD pipelines, Kubernetes, Docker
+-   **Microservices Frameworks:** FastAPI, GoFiber
+-   **Data Engineering:** Kafka, Apache Airflow, PySpark, ETL pipelines, Azure Fabric
+-   **Data Visualization:** Tableau, Power BI
+-   **Automation:** UiPath, Web scraping, N8N
+
+---
+
+## 🏆 Certifications
+
+-   Microsoft Certified: Fabric Data Engineer Associate (DP-700) — July 2025
+
+---
+
+## 🌐 Languages
+
+-   Cantonese (Native)
+-   Mandarin (Full Professional Proficiency)
+-   English (Full Professional Proficiency)
